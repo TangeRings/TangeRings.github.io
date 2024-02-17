@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reinventing the Brand
-description: Personal and Small Business Branding, AI-generated Campaign Design, Small Merchandise Supply Chain
+description: Personal and small business branding, AI-generated campaign design, small merchandise supply chain
 img: assets/img/brand.png
 redirect: /pages/404.md
 importance: 2
