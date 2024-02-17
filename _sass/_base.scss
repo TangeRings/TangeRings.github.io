@@ -170,7 +170,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
-    font-size: 20px; /* Set your desired font size */
+    font-size: 17px; /* Set your desired font size */
     text-align: center; 
   }
 
@@ -187,7 +187,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-body .card-text {
     text-align: justify;
-    font-size: 12px !important;/* Your custom font size */
+    font-size: 13px !important;/* Your custom font size */
   }
 }
 
@@ -648,8 +648,15 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
+    display: flex;
+    flex-direction: column;
     width: 250px;
     margin-bottom: 10px;
+  }
+
+  .grid-item .card-body {
+    flex-grow: 1;
+    /* Additional styles for padding, margin, etc., can go here */
   }
 
   h2.category {
