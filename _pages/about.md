@@ -6,7 +6,7 @@ subtitle: Content Creator, Independent Product Manager #<a href='#'>Affiliations
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar.png
   image_circular: true # crops the image to make it circular
   #more_info: >
    # <p>555 your office number</p>
