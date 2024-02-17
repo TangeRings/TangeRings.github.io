@@ -1,10 +1,10 @@
 ---
 layout: page
 title: teaching
-permalink: /teaching2/
+permalink: /teaching/
 description: Under Construction
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [2023-2024]
 horizontal: false
 ---

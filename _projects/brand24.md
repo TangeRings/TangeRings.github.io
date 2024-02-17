@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Content Creation and Management on Social Media
+title: Reinventing the Brand
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: 
-importance: 2
+img: assets/img/brand.png
+redirect: /pages/404.md
+importance: 3
 category: 2023-2024
 ---
 
