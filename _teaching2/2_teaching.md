@@ -3,7 +3,7 @@ layout: page
 title: Content Creation and Management on Social Media
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: 
 importance: 2
 category: 2023-2024
 ---

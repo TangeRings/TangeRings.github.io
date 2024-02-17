@@ -173,6 +173,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching2:
+    output: true
+    permalink: /teaching2/:path/
 
 announcements:
   enabled: true

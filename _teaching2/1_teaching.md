@@ -2,8 +2,7 @@
 layout: page
 title: Introduction to Mindful Product Management
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/brand.png
 importance: 1
 category: 2023-2024
 ---
