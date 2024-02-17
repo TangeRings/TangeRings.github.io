@@ -170,16 +170,24 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 20px; /* Set your desired font size */
+    text-align: center; 
   }
 
   .card-item {
     width: auto;
     margin-bottom: 10px;
+    font-size: 12px;
 
     .row {
       display: flex;
       align-items: center;
     }
+  }
+
+  .card-body .card-text {
+    text-align: justify;
+    font-size: 12px !important;/* Your custom font size */
   }
 }
 

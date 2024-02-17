@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reinventing the Brand
-description: a project that redirects to another website
+description: Personal & SME Branding, AI-generated Campaign Design, Small Merchandise Supply Chain
 img: assets/img/brand.png
 redirect: /pages/404.md
 importance: 3
