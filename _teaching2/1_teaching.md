@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: Introduction to Mindful Product Management
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 1
+category: 2023-2024
 ---
 
 Every project has a beautiful feature showcase page.

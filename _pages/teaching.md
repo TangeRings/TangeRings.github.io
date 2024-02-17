@@ -5,7 +5,7 @@ permalink: /teaching2/
 description: Under Construction
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [2023-2024]
 horizontal: false
 ---
 

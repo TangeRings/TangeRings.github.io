@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: Content Creation and Management on Social Media
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2
+category: 2023-2024
 ---
 
 Every project has a beautiful feature showcase page.
