@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Under Construction
+description: Under Construction - Links Unavailable
 nav: true
 nav_order: 3
 display_categories: [2023-2024]
