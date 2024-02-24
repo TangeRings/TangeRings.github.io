@@ -54,7 +54,7 @@
       year: 2024.2
     - title: CFA Challenge Shanghai Society Training Instructor
       year: 2023.9
-    - title: TedEx x NYUShanghai, Speaker
+    - title: Tedx NYUShanghai, Speaker
       year: 2023.11
     - title: MiraclePlus Female Entreprenuer Summit Speaker, Panelist
       year: 2023
@@ -65,8 +65,19 @@
   contents:
     - year: 2024.2
       title: From an Influencer Artist to a Cultural Advocate (with ZhongYeTang) - NYUSH Guest Lecture (details)
-    - year: 2023
-      title: Emotion-Aware AI in the Music Industry (with E) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9889924
+            linkname: "link"
+    - year: 2023.11
+      title: Monetization for Podcasters - From an Influencer to an Entrepreneur (with Keqin He) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9579017
+            linkname: "link"
+    - year: 2023.10
+      title: How Emotion-Aware AI Affects Music Industry (with Thomas Lidy) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9546153
+            linkname: "link"
 
 - title: Academic Interests
   type: time_table
