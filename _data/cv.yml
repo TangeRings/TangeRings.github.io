@@ -7,25 +7,6 @@
       value: Content Creator, Independent Product Manager
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Master
-      institution: Columbia University
-      year: 
-      description:
-        - Statistics
-    - title: Master, cum laude
-      institution: University of Amsterdam
-      year: 
-      description:
-        - Business Economics
-    - title: Bachelor, cum laude
-      institution: University of Amsterdam
-      year: 
-      description:
-        - Economics
-
 - title: Experience
   type: time_table
   contents:
@@ -47,13 +28,34 @@
       year: 2023-now
       description: A set of AI tools for College Instructors (under construction)
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Master
+      institution: Columbia University
+      year: 
+      description:
+        - Statistics
+    - title: Master, cum laude
+      institution: University of Amsterdam
+      year: 
+      description:
+        - Business Economics
+    - title: Bachelor, cum laude
+      institution: University of Amsterdam
+      year: 
+      description:
+        - Economics
+
 - title: Talks and Presentations
   type: time_table
   contents:
     - title: NYU AI Symposium Speaker, Panelist
-      year: 2024
+      year: 2024.2
     - title: CFA Challenge Shanghai Society Training Instructor
-      year: 2023
+      year: 2023.9
+    - title: TedEx x NYUShanghai, Speaker
+      year: 2023.11
     - title: MiraclePlus Female Entreprenuer Summit Speaker, Panelist
       year: 2023
 
@@ -61,8 +63,8 @@
 - title: Organized Events and Guest Lectures
   type: time_table
   contents:
-    - year: 2024
-      title: From an Influencer Artist to a Cultural Advocate (with ZhongYeTang) - NYUSH Guest Lecture
+    - year: 2024.2
+      title: From an Influencer Artist to a Cultural Advocate (with ZhongYeTang) - NYUSH Guest Lecture (details)
     - year: 2023
       title: Emotion-Aware AI in the Music Industry (with E) - NYUSH Guest Lecture
 
