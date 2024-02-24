@@ -47,6 +47,18 @@
       description:
         - Economics
 
+- title: Research Interests
+  type: time_table
+  contents:
+    - title: Artificial Intelligence
+      items:
+        - AI for Teaching
+        - UX design for AI apps
+    - title: Content Creation
+      items:
+        - Strategic Content Creation
+        - Personal Branding Management
+
 - title: Talks and Presentations
   type: time_table
   contents:
@@ -58,25 +70,6 @@
       year: 2023.09
     - title: MiraclePlus Female Entreprenuer Summit Speaker, Panelist
       year: 2023.06
-
-
-- title: Research Interests
-  type: time_table
-  contents:
-    - title: Artificial Intelligence
-      items:
-        - AI for Teaching
-        - UX design with AI
-    - title: Content Creation
-      items:
-        - Strategic Content Creation
-        - Personal Branding Management
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Scapbook Journaling, Singing, Traveling, Playing with my cat
-
 
 - title: Organized Events and Guest Lectures
   type: time_table
@@ -96,3 +89,9 @@
       linkitems: 
           - link: https://engage.shanghai.nyu.edu/event/9546153
             linkname: "link"
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Scapbook Journaling, Singing, Traveling, Playing with my cat
