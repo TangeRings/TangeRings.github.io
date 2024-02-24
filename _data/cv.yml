@@ -52,12 +52,12 @@
   contents:
     - title: NYU AI Symposium Speaker, Panelist
       year: 2024.2
-    - title: CFA Challenge Shanghai Society Training Instructor
-      year: 2023.9
-    - title: Tedx NYUShanghai, Speaker
+    - title: Tedx NYUShanghai, SpeakerC
       year: 2023.11
+    - title: FA Challenge Shanghai Society Training Instructor
+      year: 2023.09
     - title: MiraclePlus Female Entreprenuer Summit Speaker, Panelist
-      year: 2023
+      year: 2023.06
 
 
 - title: Organized Events and Guest Lectures
@@ -79,7 +79,7 @@
           - link: https://engage.shanghai.nyu.edu/event/9546153
             linkname: "link"
 
-- title: Academic Interests
+- title: Research Interests
   type: time_table
   contents:
     - title: Artificial Intelligence
