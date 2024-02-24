@@ -51,33 +51,14 @@
   type: time_table
   contents:
     - title: NYU AI Symposium Speaker, Panelist
-      year: 2024.2
-    - title: Tedx NYUShanghai, SpeakerC
+      year: 2024.02
+    - title: Tedx NYUShanghai, Speaker
       year: 2023.11
-    - title: FA Challenge Shanghai Society Training Instructor
+    - title: CFA Challenge Shanghai Society Training Instructor
       year: 2023.09
     - title: MiraclePlus Female Entreprenuer Summit Speaker, Panelist
       year: 2023.06
 
-
-- title: Organized Events and Guest Lectures
-  type: time_table
-  contents:
-    - year: 2024.2
-      title: From an Influencer Artist to a Cultural Advocate (with ZhongYeTang) - NYUSH Guest Lecture (details)
-      linkitems: 
-          - link: https://engage.shanghai.nyu.edu/event/9889924
-            linkname: "link"
-    - year: 2023.11
-      title: Monetization for Podcasters - From an Influencer to an Entrepreneur (with Keqin He) - NYUSH Guest Lecture
-      linkitems: 
-          - link: https://engage.shanghai.nyu.edu/event/9579017
-            linkname: "link"
-    - year: 2023.10
-      title: How Emotion-Aware AI Affects Music Industry (with Thomas Lidy) - NYUSH Guest Lecture
-      linkitems: 
-          - link: https://engage.shanghai.nyu.edu/event/9546153
-            linkname: "link"
 
 - title: Research Interests
   type: time_table
@@ -95,3 +76,23 @@
   type: list
   contents:
     - <u>Hobbies:</u> Scapbook Journaling, Singing, Traveling, Playing with my cat
+
+
+- title: Organized Events and Guest Lectures
+  type: time_table
+  contents:
+    - year: 2024.02
+      title: From an Influencer Artist to a Cultural Advocate (with ZhongYeTang) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9889924
+            linkname: "link"
+    - year: 2023.11
+      title: Monetization for Podcasters - From an Influencer to an Entrepreneur (with Keqin He) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9579017
+            linkname: "link"
+    - year: 2023.11
+      title: How Emotion-Aware AI Affects Music Industry (with Thomas Lidy) - NYUSH Guest Lecture
+      linkitems: 
+          - link: https://engage.shanghai.nyu.edu/event/9546153
+            linkname: "link"
