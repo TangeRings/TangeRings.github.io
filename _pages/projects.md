@@ -5,7 +5,7 @@ permalink: /projects/
 description: under construction
 nav: true
 nav_order: 3
-display_categories: [Under Construction]
+display_categories: [Under Construction, Hobbies]
 horizontal: false
 ---
 

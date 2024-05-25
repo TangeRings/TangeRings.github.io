@@ -14,19 +14,19 @@
       institution: New York University Shanghai
       year: 
       description:
-        - Interactive Media and Business
+        - <small>Interactive Media and Business</small>
     - title: Junior Portfolio Manager
       institution: ING Investment Management
       year: 
       description:
-        - Core Fixed Income Fund Management
+        - <small>Core Fixed Income Fund Management</small>
 
 - title: Projects
   type: time_table
   contents:
     - title: AI for Teaching
       year: 2023-now
-      description: A set of AI tools for College Instructors (under construction)
+      description: <small>A set of AI tools for College Instructors (under construction)</small>
 
 - title: Education
   type: time_table
@@ -35,33 +35,36 @@
       institution: Columbia University
       year: 
       description:
-        - Statistics
+        - <small>Statistics</small>
     - title: Master, cum laude
       institution: University of Amsterdam
       year: 
       description:
-        - Business Economics
+        - <small>Business Economics</small>
     - title: Bachelor, cum laude
       institution: University of Amsterdam
       year: 
       description:
-        - Economics
+        - <small>Economics</small>
 
 - title: Research Interests
   type: time_table
   contents:
     - title: Artificial Intelligence
       items:
-        - AI for Teaching
-        - UX design for AI apps
+        - <small>AI for Teaching</small>
+        - <small>UX design for AI apps</small>
     - title: Content Creation
       items:
-        - Strategic Content Creation
-        - Personal Branding Management
+        - <small>Strategic Content Creation</small>
+        - <small>Personal Branding Management</small>
 
 - title: Talks and Presentations
   type: time_table
   contents:
+    - title: NYU Shanghai Education with GenAI Showcase Speaker, Panelist
+      description: <small>Boosting Feedback Productivity - AI-Driven Insights for Student Project Success</small>   
+      year: 2024.04
     - title: NYU AI Symposium Speaker, Panelist
       year: 2024.02
     - title: Tedx NYUShanghai, Speaker
@@ -74,6 +77,8 @@
 - title: Organized Events and Guest Lectures
   type: time_table
   contents:
+    - year: 2024.05
+      title: Unlock the Secrets of Bilibili Success with 御史房
     - year: 2024.03
       title: 3-Body Problem Beyond Gravity Immersive Experience Production Crew Panel - NYUSH Guest Lecture
       linkitems: 
