@@ -2,7 +2,7 @@
 layout: page
 title: Capstone Manager
 description: an AI-powered tool to facilitate the Capstone Project Managment and Evaluation process in higher education
-img: assets/img/meeting.jpg
+img: assets/img/meeting.png
 importance: 1
 category: Tools
 related_publications: false
