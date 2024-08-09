@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 ENV DEBIAN_FRONTEND noninteractive
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER Amir Pourmand
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
@@ -10,7 +10,11 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     build-essential \
     zlib1g-dev \
     jupyter-nbconvert \
-    inotify-tools procps && \
+    inotify-tools \
+    procps \
+    nodejs \
+    npm \
+    libssl-dev && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 
@@ -37,5 +41,7 @@ RUN bundle install --no-cache
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
+RUN chmod +x /tmp/entry_point.sh && \
+    sed -i 's/\r$//' /tmp/entry_point.sh
 
-CMD ["/tmp/entry_point.sh"]
+CMD ["/bin/bash", "/tmp/entry_point.sh"]
