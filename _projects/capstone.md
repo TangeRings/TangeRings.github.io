@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Capstone Manager
-description: an AI-powered tool to facilitate the Capstone Project Managment and Evaluation process in higher education
+description: an AI-powered tool to facilitate the Capstone Project Managment and Evaluation process 
 img: assets/img/meeting.png
 importance: 1
 category: Tools
 related_publications: false
 ---
 
-The purpose of the project to enhance one-on-one education by streamlining workflows, improving communication, and integrating advanced AI capabilities. For details, please visit the project link [blueq.ai](https://blueq.ai).
+The purpose of the project to enhance one-on-one education by streamlining workflows, improving communication, and integrating advanced AI capabilities. 
 
 
 <br>

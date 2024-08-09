@@ -655,7 +655,9 @@ footer.sticky-bottom {
   }
 
   .grid-item .card-body {
-    flex-grow: 1;
+    height: 130px;
+    overflow: hidden;
+    /*flex-grow: 1;
     /* Additional styles for padding, margin, etc., can go here */
   }
 
