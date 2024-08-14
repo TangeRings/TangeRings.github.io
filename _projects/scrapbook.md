@@ -11,6 +11,12 @@ related_publications: false
 I plan to do scrapbook journaling for the entire year. The following pictures are my selected works.
 
 
+For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/shorts/B4mi-J1HSVo).
+
+
+<!-- // -->
+<!-- // -->
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0718.jpg" title="lantern delight" class="img-fluid rounded z-depth-1" %}

@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Nini Wang. Currently, I am working on several AI web apps designed to empower individuals and small teams to accomplish the feats previously deemed impossible without extensive manpower. My current focus is the education industry, and I am committed to creating immersive and efficiency tools that align with our natural learning habits through innovative UX.
+Hello, my name is NiNi Wang. Currently, I am working on several AI web apps designed to empower individuals and small teams to accomplish the feats previously deemed impossible without extensive manpower. My current focus is content creation and education, and I am committed to creating immersive and efficiency tools that align with our natural learning habits through innovative UX.
 
 The project sites are still under construction. Please come back later for more details.
 If you have any suggestions or comments, or would like to collaborate, please reach out to me through my [email](niniwang.tange@gmail.com).
