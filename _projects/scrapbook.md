@@ -105,7 +105,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0507e.jpg" title="magical garden" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0507e.jpg" title="magical garden" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0505.jpg" title="beach vacation" class="img-fluid rounded z-depth-1" %}
@@ -114,7 +114,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0430.jpg" title="houses in spring" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0430.jpg" title="houses in spring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0426.jpg" title="love of kimono" class="img-fluid rounded z-depth-1" %}
@@ -123,7 +123,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0420.jpg" title="mermaid dream" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0420.jpg" title="mermaid dream" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0416.jpg" title="coffee break" class="img-fluid rounded z-depth-1" %}
@@ -133,7 +133,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0412.jpg" title="sweetness" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0412.jpg" title="sweetness" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0402.jpg" title="perfume" class="img-fluid rounded z-depth-1" %}
@@ -142,7 +142,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0328e.jpg" title="the queen" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0328e.jpg" title="the queen" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0312.jpg" title="tea menu" class="img-fluid rounded z-depth-1" %}
@@ -158,7 +158,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0301.jpg" title="magic forest" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0301.jpg" title="magic forest" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0226.jpg" title="goddness smiles" class="img-fluid rounded z-depth-1" %}
@@ -167,7 +167,7 @@ For videos, please check my Youtube channel [Allison Q](https://www.youtube.com/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/scrapbook/0210.jpg" title="fairy tail" class="img-fluid rounded z-depth-1" 
+        {% include figure.liquid loading="eager" path="assets/scrapbook/0210.jpg" title="fairy tail" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/scrapbook/0212.jpg" title="mars is a girl" class="img-fluid rounded z-depth-1" %}
